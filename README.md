@@ -40,15 +40,27 @@ https://github.com/NationalSecurityAgency/ghidra/releases
 4️⃣ Analyser le tout avec Ghidra
 
 
-<img width="896" height="235" alt="Screenshot 2026-01-11 181242" src="https://github.com/user-attachments/assets/c210fb10-f4a2-40bb-81b3-b1dc5d42e197" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c210fb10-f4a2-40bb-81b3-b1dc5d42e197" width="700" />
+</p>
 
-<img width="855" height="467" alt="Screenshot 2026-01-11 181323" src="https://github.com/user-attachments/assets/4dc098ee-e447-47eb-a657-18c6145edf0a" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4dc098ee-e447-47eb-a657-18c6145edf0a" width="700" />
+</p>
 
-<img width="1184" height="751" alt="image" src="https://github.com/user-attachments/assets/8c608460-6826-4b7e-9672-439b80d0f5c8" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8c608460-6826-4b7e-9672-439b80d0f5c8" width="750" />
+</p>
 
-<img width="928" height="1136" alt="Gemini_Generated_Image_t789het789het789" src="https://github.com/user-attachments/assets/01c7e6e0-a18e-4a52-94f7-134e08c47e95" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/01c7e6e0-a18e-4a52-94f7-134e08c47e95" width="450" />
+</p>
 
-<img width="727" height="441" alt="Screenshot 2026-01-13 185450" src="https://github.com/user-attachments/assets/9cca3c47-e93e-4f2a-be5f-66753a750f5d" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9cca3c47-e93e-4f2a-be5f-66753a750f5d" width="700" />
+</p>
 
-<img width="1279" height="718" alt="Screenshot " src="https://github.com/user-attachments/assets/9e6eaca3-0888-4740-905e-a4374ade0177" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9e6eaca3-0888-4740-905e-a4374ade0177" width="750" />
+</p>
 
