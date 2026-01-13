@@ -48,5 +48,7 @@ https://github.com/NationalSecurityAgency/ghidra/releases
 
 <img width="928" height="1136" alt="Gemini_Generated_Image_t789het789het789" src="https://github.com/user-attachments/assets/01c7e6e0-a18e-4a52-94f7-134e08c47e95" />
 
+<img width="727" height="441" alt="Screenshot 2026-01-13 185450" src="https://github.com/user-attachments/assets/9cca3c47-e93e-4f2a-be5f-66753a750f5d" />
+
 <img width="1279" height="718" alt="Screenshot " src="https://github.com/user-attachments/assets/9e6eaca3-0888-4740-905e-a4374ade0177" />
 
