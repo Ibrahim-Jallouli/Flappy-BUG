@@ -1,0 +1,36 @@
+# --- Dossiers Unity standards (Générés automatiquement) ---
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+.utmp/
+
+# --- Fichiers générés par l'IDE (Visual Studio / VS Code) ---
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+
+# --- Tes dossiers de Build (Sorties du jeu) ---
+build/
+build web/
+mobile apk build/
+
+# --- Dossiers/Fichiers temporaires ou inutiles ---
+New folder/
+.DS_Store
+Thumbs.db
+
+# --- SÉCURITÉ (Très important) ---
+# Ne jamais versionner tes clés de signature Android/iOS
+*.keystore
+*.p12
